@@ -1,4 +1,7 @@
 ### Hi there 👋
+</br>Name:Manasa
+</br>I’m currently working on java
+</br>How to reach me: manasacool01@gmail.com
 
 <!--
 **Manasa94495/Manasa94495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
