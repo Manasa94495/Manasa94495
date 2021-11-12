@@ -1,6 +1,6 @@
 ### Hi there 👋
 </br>Name:Manasa
-</br>I’m currently working on java
+
 </br>How to reach me: manasacool01@gmail.com
 
 <!--
